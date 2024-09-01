@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NACOR.WebAPI", "NACOR.WebAPI\NACOR.WebAPI.csproj", "{8ED8C3BD-08E5-451A-BF68-FF07DD1D098C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NACOR.Core", "NACOR.Core\NACOR.Core.csproj", "{8E975C6F-DC60-4837-A859-78B08518A481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NACOR.Infrastructure", "NACOR.Infrastructure\NACOR.Infrastructure.csproj", "{BEBA60FF-4EAB-4117-9223-D7C1C93A5EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED8C3BD-08E5-451A-BF68-FF07DD1D098C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED8C3BD-08E5-451A-BF68-FF07DD1D098C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED8C3BD-08E5-451A-BF68-FF07DD1D098C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED8C3BD-08E5-451A-BF68-FF07DD1D098C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E975C6F-DC60-4837-A859-78B08518A481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E975C6F-DC60-4837-A859-78B08518A481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E975C6F-DC60-4837-A859-78B08518A481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E975C6F-DC60-4837-A859-78B08518A481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEBA60FF-4EAB-4117-9223-D7C1C93A5EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBA60FF-4EAB-4117-9223-D7C1C93A5EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBA60FF-4EAB-4117-9223-D7C1C93A5EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBA60FF-4EAB-4117-9223-D7C1C93A5EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
